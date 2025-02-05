@@ -24,6 +24,7 @@ I specialize in **HTML, CSS, JavaScript, React.js**, bringing ideas to life with
 </p>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+![LeetCode Stats](https://leetcard.jacoblin.cool/Nambiselvam?theme=catppuccinMocha&font=Marcellus&ext=contest)
 
 ## 📩 Let’s Connect!  
 🚀 **[LinkedIn](https://www.linkedin.com/in/nambiselvam)**  
